@@ -1,2 +1,2 @@
-# my-first-repo HALO!
+# my-first-repo Hi!
 Practice account for learning Git
